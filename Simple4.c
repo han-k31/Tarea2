@@ -9,7 +9,7 @@ permita obtener el monto de dinero que obtendr ́a al finalizar el mes.*/
 int main()
 {
   double dinero, interes, monto;
-  double tasainteres = .15;
+  double tasainteres = .15; // La tasa de interes es del 15%
 
   printf("Ingrese la cantidad de dinero: ");
   scanf("%lf", &dinero);

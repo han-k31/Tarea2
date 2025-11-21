@@ -38,7 +38,7 @@ int main()
     
     int lim = cont(arreglo, tamaño, numero);
     
-    printf("El número %d aparece %d veces en el arreglo", numero, lim);
+    printf("\nEl número %d aparece %d veces en el arreglo", numero, lim);
     
     return 0;
 }
